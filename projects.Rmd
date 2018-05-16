@@ -1,0 +1,7 @@
+---
+title: "Projects"
+---
+
+## [EDA on White Wine Quality](https://archidemi.github.io/whiteWine.html)
+
+- Hehe!
