@@ -1,0 +1,9 @@
+name: "one-eyed-daruma"
+output_dir: "."
+navbar:
+  title: "Projects in a Shoebox"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
