@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Projects in a Shoebox"
 ---
 
 ## [EDA on White Wine Quality](https://archidemi.github.io/whiteWine.html)
