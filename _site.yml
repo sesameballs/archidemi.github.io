@@ -1,7 +1,7 @@
 name: "one-eyed-daruma"
 output_dir: "."
 navbar:
-  title: "Projects in a Shoebox"
+  title: "One-Eyed Daruma"
   left:
     - text: "Home"
       href: index.html

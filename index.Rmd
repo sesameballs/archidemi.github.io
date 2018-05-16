@@ -1,5 +1,5 @@
 ---
-title: "One-Eyed Daruma"
+title: "Projects in a Shoebox"
 ---
 
 Hello, Universe!
