@@ -2,6 +2,9 @@
 title: "Projects in a Shoebox"
 ---
 
-## [EDA on White Wine Quality](https://archidemi.github.io/whiteWine.html)
+### [Data Wrangling on OpenStreetMap Data](https://archidemi.github.io/DataWrangling_OpenStreetMap/)
+
+
+### [EDA on White Wine Quality](https://archidemi.github.io/EDA_WineQuality/whiteWine.html)
 
 - Hehe!
