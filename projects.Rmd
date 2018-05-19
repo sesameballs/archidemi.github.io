@@ -10,4 +10,8 @@ title: "Projects in a Shoebox"
 
 - Hehe!
 
-### [Tableau Story on Baseball Data](https://public.tableau.com/profile/ssni#!/vizhome/baseball_v2_1/Baseball_Story)
+### [What Makes a Great Baseball Player?](https://public.tableau.com/profile/ssni#!/vizhome/baseball_v2_1/Baseball_Story)
+
+- A Tableau Story narratively shows what attributes contribute to a great baseball player.
+- How does batting average interact with home runs?
+- What kind of stature does it look like to help achieve good performances in baseball fields?
