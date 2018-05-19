@@ -9,3 +9,5 @@ title: "Projects in a Shoebox"
 ### [EDA on White Wine Quality](https://archidemi.github.io/EDA_WineQuality/whiteWine.html)
 
 - Hehe!
+
+### [Tableau Story on Baseball Data](https://public.tableau.com/profile/ssni#!/vizhome/baseball_v2_1/Baseball_Story)
