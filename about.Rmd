@@ -3,6 +3,6 @@ title: "About"
 ---
 
 
-<img style="float: right" src="picme.jpg" width="400">
+<img style="float: right" src="picme.JPG" width="400">
 
 A donut hole makes a donut whole.
