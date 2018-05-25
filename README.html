@@ -202,7 +202,30 @@ $(document).ready(function () {
 </div>
 
 
-<p>Let’s see.</p>
+<div id="github-pages" class="section level3">
+<h3>Github Pages</h3>
+<p>Get a brief introduction of how to build your own <a href="https://pages.github.com">Github Pages</a>.</p>
+</div>
+<div id="my-pages" class="section level3">
+<h3>My Pages</h3>
+<p><a href="https://archidemi.github.io/index.html" class="uri">https://archidemi.github.io/index.html</a></p>
+<p>The site is still under construction…</p>
+</div>
+<div id="construction-stages" class="section level3">
+<h3>Construction Stages</h3>
+<p>The site is built by utilizing RStudio and the <code>rmarkdown</code> package. + <code>_site.yml</code>: layout the blueprint of the site. + <code>index.Rmd</code>: the homepage of the site. + <code>about.Rmd</code>: something about the site. + <code>projects.Rmd</code>: a page to list the projects with links and descriptions. + <code>build_site.R</code>: the code to render the other <code>.html</code> files to build the site.</p>
+<pre class="r"><code># setting the working directory is necessary
+setwd(&#39;~/yourfolder&#39;)
+
+rmarkdown::render_site</code></pre>
+<ul>
+<li><code>site_libs</code> is a folder generated after rendering, including css styles and themes supported by <code>rmarkdown</code></li>
+</ul>
+</div>
+<div id="resources" class="section level3">
+<h3>Resources</h3>
+<p><a href="https://rmarkdown.rstudio.com/rmarkdown_websites.html" class="uri">https://rmarkdown.rstudio.com/rmarkdown_websites.html</a></p>
+</div>
 
 
 

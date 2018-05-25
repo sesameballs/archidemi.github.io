@@ -2,4 +2,7 @@
 title: "About"
 ---
 
-Blah blah blah
+
+<img style="float: right" src="picme.jpg" width="400">
+
+A donut hole makes a donut whole.
