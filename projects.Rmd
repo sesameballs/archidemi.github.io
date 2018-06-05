@@ -4,25 +4,24 @@ title: "Projects in a Shoebox"
 
 ### [Data Wrangling on OpenStreetMap Data](https://archidemi.github.io/DataWrangling_OpenStreetMap/)
 
-- Data wrangling process on an OSM file (~100MB) by Python
-- Cleans, normalizes, extracts informative data about San Diego metro area
-- Sets up an SQL database and transfers the cleaned dataset
-- Interesting geographic findings by SQL queries
+- Wrangled data by Python on an OSM file (~100MB)
+- Normalized, extracted informative data about San Diego metro area
+- Set up an SQL database and transferred the cleaned dataset
+- Presented geographic findings through SQL queries
 
 ### [EDA on White Wine Quality](https://archidemi.github.io/EDA_WineQuality/whiteWine.html)
 
-- Explore the wine quality dataset by R
-- Descriptive statistics and Visualized distributions and relationships provide insights
-- Discovers what attributes contribute to excellent wine quality
+- Explored the wine quality dataset utilizing R (especially ggplot2)
+- Delivered insights via descriptive statistics and visualized distributions and relationships
+- Discovered what attributes contribute to excellent wine quality
 
 ### [Hypothesis Testing on Stroop Effect](https://archidemi.github.io/tTest_StroopEffect/strooptest.html)
 
-- A classic cognitive experiment and its variations continue influences the world
-- Explains why a t-test is performed in this case
-- Interpretes the statistics step-by-step both mathematically and in "human language"
+- Performed t-Test on the classic cognitive experiment: Stroop Effect
+- Interpreted the statistics in step-by-step calculation and "human language"
 
 ### [What Makes a Great Baseball Player?](https://public.tableau.com/profile/ssni#!/vizhome/baseball_v2_1/Baseball_Story)
 
-- A Tableau Story narratively shows what attributes contribute to a great baseball player.
-- How does batting average interact with home runs?
-- What kind of stature does it look like to help achieve good performances in baseball fields?
+- A Tableau Story narratively shows what attributes contribute to a great baseball player
+- Dived into the relationship between batting average and home runs
+- Visualized data for reasoning and conclusions on how players' stature and performance on baseball fields correlate
