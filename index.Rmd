@@ -3,3 +3,5 @@ title: "One-Eyed Daruma"
 ---
 
 Hello, Universe!
+
+![](octahedron.jpg)
