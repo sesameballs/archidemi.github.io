@@ -25,3 +25,5 @@ title: "Projects in a Shoebox"
 - A Tableau Story narratively shows what attributes contribute to a great baseball player
 - Dived into the relationship between batting average and home runs
 - Visualized data for reasoning and conclusions on how players' stature and performance on baseball fields correlate
+
+### [Identify Fraud from Enron Email](https://archidemi.github.io/ml_EnronPOIClassifier/)
