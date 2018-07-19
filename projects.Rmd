@@ -31,4 +31,3 @@ title: "Projects in a Shoebox"
 - A machine learning project to build a classifier that identifies persons of interest based on financial features and email interactions
 - Performed feature selection to keep the simplest possible algorithm
 - Fine tuned logistic regression to reach an ideal precision score above 0.4
-See project An Enron Scandal POI Classifier
