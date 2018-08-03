@@ -1,7 +1,7 @@
-name: "one-eyed-daruma"
+name: "unfortunate-cookie"
 output_dir: "."
 navbar:
-  title: "One-Eyed Daruma"
+  title: "Unfortunate Cookie"
   left:
     - text: "Home"
       href: index.html

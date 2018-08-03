@@ -1,7 +1,5 @@
 ---
-title: "One-Eyed Daruma"
+title: "Hello, Universe!"
 ---
-
-Hello, Universe!
 
 ![](octahedron.jpg)
