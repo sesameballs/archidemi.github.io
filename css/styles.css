@@ -1,0 +1,37 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+}
+
+/* HEADER */
+.navbar-brand img {
+    width: 50px;
+}
+
+.navbar-brand {
+    font-size: 2em;
+}
+
+/* END HEADER */
+
+/* ABOUT ME */
+#aboutMe {
+    margin-top: 100px;
+}
+#donut {
+    padding-top: 20px;
+}
+#hole {
+    background: url("/picme.jpg") right no-repeat;
+    height: 350px;
+}
+/* END ABOUT ME */
+
+
+/******* EXTRA SMALL DEVICES ONLY *******/
+@media (max-width: 575px) {}
+
+/******* MEDIUM AND LARGE DEVICES *******/
+@media (min-width: 768px) and (max-width: 1199px) {}
+
+/******* XL AND XXL DEVICES *******/
+@media (min-width: 1200px) {}

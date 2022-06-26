@@ -1,8 +1,0 @@
----
-title: "About Me"
----
-
-
-<img style="float: right" src="picme.JPG" width="400">
-
-A donut hole makes a donut whole.
