@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="h-100">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,9 +9,9 @@
     <title>Unfortunate Cookie</title>
 </head>
 
-<body>
+<body class="d-flex flex-column h-100">
   <header>
-    <nav id="header-nav" class="navbar">
+    <nav id="header-nav" class="navbar bg-light">
       <div class="container">
         <a class="navbar-brand" href="index.html">
           <img src="black-cookie.svg" alt="fortune cookie silhouette">
@@ -21,17 +21,25 @@
     </nav>
   </header>
 
+  <hr>
+
   <div id="aboutMe" class="container">
     <div class="row">
-      <div id="donut" class="col-sm-6">
+      <div id="donut" class="col-md-6 col-sm-12">
         <span>Life is not a box of fortune cookies. Rather, it's filled with crackers, oops no, cracked ones.</span>
         <br><br><span>May the unfortunate cookie brings the grit out of you.</span>
         <br><span>May love and courage grow from every struggle.</span>
         <br><br><span>Because you know, a donut hole makes a donut whole.</span>
       </div>
-      <div id="hole" class="col-sm-6"></div>
+      <div id="hole" class="col-md-6 col-sm-12"></div>
     </div>
   </div>
+
+  <footer class="footer mt-auto py-2 bg-light">
+    <div class="container text-center">
+      <span class="text-muted">&copy; 2022 Cookie Maker, LLC</span>
+    </div>
+  </footer>
 
   <script src="js/bootstrap.min.js"></script>
 </body>
