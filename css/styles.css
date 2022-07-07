@@ -7,7 +7,9 @@ hr {
 }
 
 /* HEADER */
-
+#header-content {
+    padding: 0;
+}
 .navbar-brand {
     font-size: 2.3em;
 }
@@ -16,13 +18,13 @@ hr {
 
 /* MAIN */
 main {
-    margin-top: 80px;
+    margin-top: 100px;
 }
 /* END MAIN */
 
 /* ABOUT ME */
 #aboutMe {
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 #donut {
     padding-top: 20px;
@@ -34,12 +36,15 @@ main {
 /* END ABOUT ME */
 
 
+/******* XS DEVICES ONLY *******/
+@media (max-width: 575px) {
+    #header-content {
+        padding-left: 5%;
+    }
+}
 
 /******* SMALL AND XS DEVICES *******/
 @media (max-width: 767px) {
-    .navbar-brand {
-        font-size: 1.8em;
-    }
     #donut {
         width: 350px;
         margin-left: auto;
@@ -47,7 +52,7 @@ main {
     }
     #hole {
         background-position: center;
-        margin-top: 40px;
+        margin-top: 50px;
     }
 }
 
