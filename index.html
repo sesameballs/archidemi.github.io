@@ -6,6 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/styles.css">
+
+    <!-- google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2&family=Cabin+Sketch&display=swap" rel="stylesheet">
+    <!-- end of google fonts -->
+
     <title>Unfortunate Cookies</title>
 </head>
 
@@ -31,10 +38,31 @@
 
   <main class="container">
     <div id="projects" class="align-items-center d-md-flex">
-      <div class="flex-shrink-0">
+      <div class="flex-shrink-1">
         <img src="octahedron.svg" alt="Ramiel">
       </div>
       <div class="flex-grow-1 ms-3">
+
+        <!------------test------------
+
+        <div class="dropdown">
+          <h4 class="mb-0">
+            <a class="dropdown-toggle text-decoration-none text-reset" href="#" id="dropdownContent" data-bs-toggle="dropdown" aria-expanded="false">
+              Data Wrangling on OpenStreetMap Data
+            </a>
+          </h4>
+          <ul class="dropdown-menu text-muted" aria-labelledby="dropdownContent">
+            <li><a class="dropdown-item text-muted" target="_blank" href="https://archidemi.github.io/DataWrangling_OpenStreetMap/">Click me to check the report</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><p class="description text-wrap px-3 mb-0">Normalized, extracted informative data about San Diego metro area by Python</p></li>
+            <li><p class="description text-wrap px-3 mb-0">Set up an SQL database and transferred the cleaned dataset</p></li>
+            <li><p class="description text-wrap px-3 mb-0">Presented geographic findings by SQL queries</p></li>
+          </ul>
+        </div>
+        <br><br><br>
+
+        !--------end of test--------->
+
         <h4><a class="text-decoration-none text-reset" target="_blank" href="https://archidemi.github.io/DataWrangling_OpenStreetMap/">Data Wrangling on OpenStreetMap Data</a></h4>
         <ul class="pb-3 text-muted">
           <li>Normalized, extracted informative data about San Diego metro area by Python</li>
@@ -72,7 +100,7 @@
 
   <div id="aboutMe" class="container">
     <div class="row">
-      <div id="donut" class="col-md-6 col-sm-12">
+      <div id="donut" class="col-md-6 col-sm-12 text-muted align-self-center">
         <span>Life is not a box of fortune cookies. Rather, it's filled with crackers, oops no, cracked ones.</span>
         <br><br><span>May the unfortunate cookie brings the grit out of you.</span>
         <br><span>May love and courage grow from every struggle.</span>
@@ -88,6 +116,6 @@
     </div>
   </footer>
 
-  <script src="js/bootstrap.min.js"></script>
+  <script src="js/bootstrap.bundle.js"></script>
 </body>
 </html>

@@ -1,10 +1,21 @@
-* {
-    font-family:'Courier New', Courier, monospace;
+body {
+    font-family: 'Baloo 2', cursive;
 }
+
 hr {
     width: 50%;
     margin: 100px auto 100px auto;
 }
+
+
+
+/* NAVBAR */
+.navbar-brand {
+    font-family: 'Cabin Sketch', cursive;
+}
+/* END NAVBAR */
+
+
 
 /* HEADER */
 #header-content {
@@ -16,6 +27,8 @@ hr {
 
 /* END HEADER */
 
+
+
 /* MAIN */
 main {
     margin-top: 100px;
@@ -23,7 +36,17 @@ main {
 #projects h4 {
     color: #9c8475;
 }
+/********************************** test ******************************/
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
+
+ /****************************** end of test ******************************/
 /* END MAIN */
+
+
 
 /* ABOUT ME */
 #aboutMe {
@@ -37,6 +60,13 @@ main {
     height: 350px;
 }
 /* END ABOUT ME */
+
+/* FOOTER */
+.footer {
+    font-family: 'Cabin Sketch', cursive;
+}
+/* END FOOTER */
+
 
 
 /******* XS DEVICES ONLY *******/
