@@ -1,1 +1,1 @@
-##### Just some diorama projects.
+##### A simple web page with some diorama projects.
